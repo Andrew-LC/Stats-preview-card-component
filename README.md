@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend solution page](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/responsive-stats-preview-using-grid-css-iaNMMah1b)
 - Live Site URL: [Live demo](https://andrew-lc.github.io/Stats-preview-card-component/)
 
 ### Built with
